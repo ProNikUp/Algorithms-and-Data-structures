@@ -8,7 +8,7 @@ h1 Этот репозиторий посвящен изучению и прак
 
 ### Удачного изучения!
 
-![Just do it!]("https://preview.ibb.co/kgtTjx/justdoit_dzhastduit_motivaciya.jpg")
+![Just do it!](https://preview.ibb.co/kgtTjx/justdoit_dzhastduit_motivaciya.jpg)
 
 ###### English version
 h1 This repository is devoted to the study and practice of algorithms and data structures.
