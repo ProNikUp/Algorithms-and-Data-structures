@@ -1,4 +1,4 @@
-# Алгоритмы и структуры данных (Фlgorithms and data structures)
+# Алгоритмы и структуры данных (Algorithms and data structures)
 
 ###### Russian version
 h1 Этот репозиторий посвящен изучению и практике алгоритмов и структур данных.
@@ -8,7 +8,7 @@ h1 Этот репозиторий посвящен изучению и прак
 
 ### Удачного изучения!
 
-![Just do it!](https://ibb.co/gx7XBc)
+![Just do it!]("https://preview.ibb.co/kgtTjx/justdoit_dzhastduit_motivaciya.jpg")
 
 ###### English version
 h1 This repository is devoted to the study and practice of algorithms and data structures.
